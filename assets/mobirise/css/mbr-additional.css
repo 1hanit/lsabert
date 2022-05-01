@@ -1054,19 +1054,23 @@ a {
     left: -1rem;
   }
 }
-.cid-t4bQg4IY9G {
-  background-color: #fafafa;
+.cid-t4AHZVGXAm {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-color: #9fdbf8;
 }
-@media (max-width: 991px) {
-  .cid-t4bQg4IY9G .image-wrapper {
-    margin-bottom: 1rem;
+.cid-t4AHZVGXAm .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-t4AHZVGXAm .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 70%;
   }
 }
-.cid-t4bQg4IY9G .row {
-  flex-direction: row-reverse;
-}
-.cid-t4bQg4IY9G img {
-  width: 100%;
+.cid-t4AHZVGXAm .mbr-section-title {
+  color: #ffffff;
 }
 .cid-t2RApr7kLc {
   background-image: url("../../../assets/images/movie-time-wallpaper-1804982.jpg");
@@ -1141,7 +1145,7 @@ a {
   width: 100%;
 }
 .cid-t3sAH8mMH1 {
-  padding-top: 6rem;
+  padding-top: 2rem;
   padding-bottom: 0rem;
   background-color: #bed3f9;
 }
@@ -1238,8 +1242,8 @@ a {
   text-align: center;
 }
 .cid-sFGGxz3b6J {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
   background-color: #232323;
 }
 .cid-sFGGxz3b6J .row {
@@ -1273,8 +1277,8 @@ a {
   color: #22a5e5;
 }
 .cid-t2RBy0EO62 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #353535;
 }
 .cid-t2RBy0EO62 .row {
@@ -1308,8 +1312,8 @@ a {
   color: #379683;
 }
 .cid-t2RGKwx3MT {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #232323;
 }
 .cid-t2RGKwx3MT .row {
