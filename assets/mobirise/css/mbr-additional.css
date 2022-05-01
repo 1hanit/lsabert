@@ -589,8 +589,8 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 .form-control {
   font-family: 'Epilogue', sans-serif;
@@ -702,8 +702,14 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sFGzlAXw3z .navbar-dropdown {
-  position: relative !important;
+.cid-sFGzlAXw3z {
+  z-index: 1000;
+  width: 100%;
+  position: relative;
+  min-height: 60px;
+}
+.cid-sFGzlAXw3z nav.navbar {
+  position: fixed;
 }
 .cid-sFGzlAXw3z .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -827,7 +833,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sFGzlAXw3z .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.8rem);
+    max-height: calc(98.5vh - 4.9rem);
   }
 }
 .cid-sFGzlAXw3z .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1019,6 +1025,7 @@ a {
 }
 .cid-sFGzlAXw3z .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-sFGzlAXw3z a.nav-link {
   display: flex;
@@ -1046,6 +1053,20 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-t4bQg4IY9G {
+  background-color: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-t4bQg4IY9G .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-t4bQg4IY9G .row {
+  flex-direction: row-reverse;
+}
+.cid-t4bQg4IY9G img {
+  width: 100%;
 }
 .cid-t2RApr7kLc {
   background-image: url("../../../assets/images/movie-time-wallpaper-1804982.jpg");
