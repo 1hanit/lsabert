@@ -1675,6 +1675,24 @@ a {
 .cid-t5bHQjSPIi .mbr-text {
   text-align: left;
 }
+.cid-t5dXA9Ysah {
+  padding-top: 6rem;
+  padding-bottom: 0rem;
+  background-color: #9fdbf8;
+}
+.cid-t5dXA9Ysah .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-t5dXA9Ysah .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 80%;
+  }
+}
+.cid-t5dXA9Ysah .mbr-section-title {
+  color: #000000;
+}
 .cid-sFGFZiVtyo {
   padding-top: 8rem;
   padding-bottom: 9rem;
