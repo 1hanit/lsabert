@@ -1084,6 +1084,24 @@ a {
   text-align: center;
   color: #ffffff;
 }
+.cid-t3sAH8mMH1 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #bed3f9;
+}
+.cid-t3sAH8mMH1 .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-t3sAH8mMH1 .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 80%;
+  }
+}
+.cid-t3sAH8mMH1 .mbr-section-title {
+  color: #ffffff;
+}
 .cid-t4AvP6fs5z {
   background-color: #232323;
 }
@@ -1112,30 +1130,12 @@ a {
   margin: 0 auto;
 }
 .cid-t2RHEBKQDQ .mbr-text {
-  text-align: center;
+  text-align: left;
 }
 .cid-t4BidtEdYN {
   padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
-}
-.cid-t3sAH8mMH1 {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #bed3f9;
-}
-.cid-t3sAH8mMH1 .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-t3sAH8mMH1 .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 80%;
-  }
-}
-.cid-t3sAH8mMH1 .mbr-section-title {
-  color: #ffffff;
 }
 .cid-t4Bsv1tlCL {
   padding-top: 3rem;
@@ -1693,31 +1693,8 @@ a {
 .cid-t5dXA9Ysah .mbr-section-title {
   color: #000000;
 }
-.cid-t5etiYlDm1 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-t5etiYlDm1 .video-wrapper iframe {
-  width: 100%;
-}
-.cid-t5etiYlDm1 .mbr-section-title,
-.cid-t5etiYlDm1 .mbr-description {
-  text-align: center;
-}
-.cid-t5etiYlDm1 .text-wrapper {
-  padding: 1rem;
-}
-@media (min-width: 992px) {
-  .cid-t5etiYlDm1 .text-wrapper {
-    padding: 2rem;
-    padding-right: 4rem;
-  }
-}
-.cid-t5euQ3loyA {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
+.cid-t5gaixJhZx {
+  background-image: url("../../../assets/images/genetic-data.webp");
 }
 .cid-sFGFZiVtyo {
   padding-top: 8rem;
